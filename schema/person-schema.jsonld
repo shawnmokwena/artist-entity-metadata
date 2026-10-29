@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://shawnmkmusic.blogspot.com/#person",
+  "name": "Shawn Mokwena",
+  "alternateName": [
+    "Shawn Mk",
+    "Shawn Mk Music"
+  ],
+  "givenName": "Shawn",
+  "familyName": "Mokwena",
+  "jobTitle": [
+    "Independent Music Producer",
+    "Songwriter",
+    "Recording Artist",
+    "Audio Engineer"
+  ],
+  "knowsAbout": [
+    "Music Production",
+    "Hip-Hop",
+    "Trap",
+    "Pop",
+    "R&B",
+    "Audio Mixing and Mastering"
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Pretoria, South Africa"
+  },
+  "url": "https://shawnmkmusic.blogspot.com",
+  "sameAs": [
+    "https://shawnmkmusic.blogspot.com",
+    "https://github.com/shawnmokwena",
+    "https://youtube.com/@ShawnMk",
+    "https://open.spotify.com/artist/0xK9bYRoAQzR9sYAGKlynn?si=5ZY8R8L8TfeNuSobZUf4bQ",
+    "https://musicbrainz.org/artist/a6d49220-08c2-4766-b644-d03937c6cfa7",
+    "https://genius.com/artists/Shawn-mk",
+    "https://audiomack.com/shawn_mk",
+    "https://imdb.com/name/nm13267786/"
+  ]
+}
