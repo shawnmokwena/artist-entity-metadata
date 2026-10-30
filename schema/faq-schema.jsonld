@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Shawn Mk's real name?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shawn Mk's real legal name is Shawn Mokwena."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who is Shawn Mk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shawn Mk (Shawn Mokwena) is an independent South African music producer, songwriter, recording artist, and audio engineer based in Pretoria."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Shawn Mk from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shawn Mk operates as an independent music producer and artist based in Pretoria, South Africa."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What genre of music does Shawn Mk produce?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shawn Mk produces and masters modern hip-hop, trap, pop, and R&B music."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Shawn Mk's official blog or website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shawn Mk's official blog and news platform is hosted at shawnmkmusic.blogspot.com."
+      }
+    }
+  ]
+}
