@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "catalogVersion": "1.0.0",
+  "artist": {
+    "stageName": "Shawn Mk",
+    "legalName": "Shawn Mokwena",
+    "officialWebsite": "https://shawnmkmusic.blogspot.com"
+  },
+  "releases": [
+    {
+      "releaseId": "REL-001",
+      "releaseTitle": "Right",
+      "releaseType": "Single",
+      "upc": "5063710417655",
+      "releaseDate": "2025-10-20",
+      "uploadDate": "2025-10-06",
+      "label": "Smkpix",
+      "copyrightLine": "Shawn mk",
+      "phonographicCopyright": "Smkpix",
+      "primaryGenre": "Pop",
+      "explicit": false,
+      "distribution": {
+        "distributor": "RouteNote",
+        "isrcMaster": "GXFHP2543925",
+        "youtubeUrl": "https://youtube.com/@ShawnMk"
+      },
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackTitle": "Right",
+          "isrc": "GXFHP2543925",
+          "duration": "01:56",
+          "explicit": false,
+          "credits": {
+            "primaryArtist": "Shawn Mk",
+            "featuredArtists": [],
+            "songwriters": ["Shawn Mokwena"],
+            "producers": ["Kreepynice"],
+            "composer": "Shawn Mokwena",
+            "lyricist": "Shawn Mokwena"
+          },
+          "lyrics": {
+            "hasSyncLyrics": false,
+            "plainText": ""
+          }
+        }
+      ]
+    },
+    {
+      "releaseId": "REL-002",
+      "releaseTitle": "Love",
+      "releaseType": "Single",
+      "upc": "5063907035747",
+      "releaseDate": "2026-01-30",
+      "uploadDate": "2026-01-11",
+      "label": "Smkpix",
+      "copyrightLine": "Shawn Mk",
+      "phonographicCopyright": "Smkpix",
+      "primaryGenre": "Pop",
+      "explicit": true,
+      "distribution": {
+        "distributor": "RouteNote",
+        "isrcMaster": "GX89G2064983",
+        "youtubeUrl": "https://youtube.com/@ShawnMk"
+      },
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackTitle": "Love",
+          "isrc": "GX89G2064983",
+          "duration": "03:23",
+          "explicit": true,
+          "credits": {
+            "primaryArtist": "Shawn Mk",
+            "featuredArtists": [],
+            "songwriters": ["Shawn Mokwena"],
+            "producers": ["Kreepynice"],
+            "composer": "Shawn Mokwena",
+            "lyricist": "Shawn Mokwena"
+          },
+          "lyrics": {
+            "hasSyncLyrics": false,
+            "plainText": ""
+          }
+        }
+      ]
+    },
+    {
+      "releaseId": "REL-003",
+      "releaseTitle": "No Way",
+      "releaseType": "Single",
+      "upc": "5063992429506",
+      "releaseDate": "2026-05-25",
+      "uploadDate": "2026-04-22",
+      "label": "Smkpix",
+      "copyrightLine": "Shawn Mk",
+      "phonographicCopyright": "Smkpix",
+      "primaryGenre": "Reggae",
+      "explicit": true,
+      "distribution": {
+        "distributor": "RouteNote",
+        "isrcMaster": "GX5MX2652647",
+        "youtubeUrl": "https://youtube.com/@ShawnMk"
+      },
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackTitle": "No Way",
+          "isrc": "GX5MX2652647",
+          "duration": "03:26",
+          "explicit": true,
+          "credits": {
+            "primaryArtist": "Shawn Mk",
+            "featuredArtists": [],
+            "songwriters": ["Shawn Mokwena"],
+            "producers": ["Kreepynice", "Shawn Mk"],
+            "composer": "Shawn Mokwena",
+            "lyricist": "Shawn Mokwena"
+          },
+          "lyrics": {
+            "hasSyncLyrics": false,
+            "plainText": ""
+          }
+        }
+      ]
+    }
+  ]
+}
